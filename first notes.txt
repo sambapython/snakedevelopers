@@ -1,0 +1,8 @@
+1) simple programing language
+2) functions, 
+3) web development, software development
+4) trending technologies(ML, AI)
+5) visualizing the data
+6) game developments
+7) Modularization
+8) Cybersecurity
